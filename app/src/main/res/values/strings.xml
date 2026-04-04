@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Skipper</string>
+    <string name="accessibility_description">Skipper automatically skips YouTube ads for you.</string>
+</resources>
